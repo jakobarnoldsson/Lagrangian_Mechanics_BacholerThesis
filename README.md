@@ -21,7 +21,7 @@ In the thesis we worked with the following two mechanical systems:
 ## Double pendulum with dual springs
 
 * [Maple code (no friction)](https://github.com/jakobarnoldsson/Lagrangien_Mechanics_Bacholer/blob/master/Maple_code/double_pendulum.mpl)
-* [Maple code (friction)](https://github.com/filipstrand/lagrangian-mechanics/blob/master/maple_code/double_pendulum_friction.mpl)
+* [Maple code (friction)](https://github.com/jakobarnoldsson/Lagrangien_Mechanics_Bacholer/blob/master/Maple_code/double_pendulum_friction.mpl)
 * [Blender code](https://github.com/filipstrand/lagrangian-mechanics/blob/master/blender_code/double_pendulum_blender.py)
 * [Animation videos](https://www.youtube.com/watch?v=vDLLvorw2F4)
 
