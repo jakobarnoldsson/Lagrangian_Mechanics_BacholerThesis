@@ -4,7 +4,7 @@ Here we present the code used in our [Bachelor's thesis (13.5 MB)](https://githu
 The code consists of two independent parts: 
 
 * [Maple code](https://github.com/jakobarnoldsson/Lagrangien_Mechanics_Bacholer/tree/master/Maple_code) (Written with the [Sophia](http://www.mech.kth.se/~nap/F_fk/sophia/) plugin for [Maple](https://www.maplesoft.com/products/Maple/) to model and solve the equations of motion for the systems)
-* [Blender code](https://github.com/filipstrand/lagrangian-mechanics/blob/master/blender_code) (Python code for animating the systems in [Blender](https://www.blender.org))
+* [Blender code](https://github.com/jakobarnoldsson/Lagrangien_Mechanics_Bacholer/tree/master/Blender-Code) (Python code for animating the systems in [Blender](https://www.blender.org))
 
 In the thesis we worked with the following two mechanical systems:   
 
